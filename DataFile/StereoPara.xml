@@ -1,0 +1,57 @@
+<?xml version="1.0" ?>
+<opencv_storage>
+<CamL_Intrinsic_Parameters type_id="opencv-matrix">
+	<rows>4</rows>
+	<cols>1</cols>
+	<dt>d</dt>
+	<data>
+	6902.359863281 6903.630859375 2759.151367188 1818.202026367</data></CamL_Intrinsic_Parameters>
+<CamL_Distortion type_id="opencv-matrix">
+	<rows>5</rows>
+	<cols>1</cols>
+	<dt>d</dt>
+	<data>
+	-0.050484870 0.253143400 0.000178686 -0.000194664 -0.136235073</data></CamL_Distortion>
+<CamR_Intrinsic_Parameters type_id="opencv-matrix">
+	<rows>4</rows>
+	<cols>1</cols>
+	<dt>d</dt>
+	<data>
+	6846.980468750 6846.979003906 2780.756835938 1801.179077148</data></CamR_Intrinsic_Parameters>
+<CamR_Distortion type_id="opencv-matrix">
+	<rows>5</rows>
+	<cols>1</cols>
+	<dt>d</dt>
+	<data>
+	-0.051715165 0.239777178 -0.000394035 0.000485445 -0.157969877</data></CamR_Distortion>
+<Image_Size type_id="opencv-matrix">
+	<rows>2</rows>
+	<cols>1</cols>
+	<dt>i</dt>
+	<data>
+	5496 3672</data></Image_Size>
+<R_Parameter type_id="opencv-matrix">
+	<rows>3</rows>
+	<cols>1</cols>
+	<dt>d</dt>
+	<data>
+	-0.003023450 0.412235890 -0.002041471</data></R_Parameter>
+<T_Parameter type_id="opencv-matrix">
+	<rows>3</rows>
+	<cols>1</cols>
+	<dt>d</dt>
+	<data>
+	-326.029147258 1.005662347 81.349396448</data></T_Parameter>
+<E_Parameter type_id="opencv-matrix">
+	<rows>3</rows>
+	<cols>3</cols>
+	<dt>d</dt>
+	<data>
+	-0.3039274914187735 -81.3902336828783177 0.8823237277346661 -56.4935664206581265 -1.0154604625634047 331.6750519426847745 -0.3846520247265274 -326.4606349275354091 -1.3600032760062701     </data></E_Parameter>
+<F_Parameter type_id="opencv-matrix">
+	<rows>3</rows>
+	<cols>3</cols>
+	<dt>d</dt>
+	<data>
+	0.0000000003653510 0.0000000978211177 -0.0001861875362017 0.0000000679108825 0.0000000012204597 -0.0029416103755730 -0.0001201696384794 0.0024123059648874 1.0000000000000000        </data></F_Parameter>
+</opencv_storage>
